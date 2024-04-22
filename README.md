@@ -9,13 +9,6 @@
     <br/>
 </p>
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ENT510&theme=github_dark" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ENT510&theme=github_dark" height="192px"/></a>
-    <br/>
-    <br/>
-</p>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>

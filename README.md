@@ -43,8 +43,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ENT510&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
     <br/>
-<div width="100%" align="center">
-    <a align="left" href="https://github.com/ENT510/ENT510-Ox-Elevator" title="ENT510-Ox-Elevator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ENT510&repo=ENT510-Ox-Elevator&theme=react&border_color=61dafb&border_radius=10"></a>
-        <a align="left" href="https://github.com/ENT510/LGF_PauseMenu" title="LGF_PauseMenu"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ENT510&repo=LGF_PauseMenu&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
+<div align="center">
+    <a href="https://github.com/ENT510/ENT510-Ox-Elevator" title="ENT510-Ox-Elevator">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ENT510&repo=ENT510-Ox-Elevator&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+    <a href="https://github.com/ENT510/LGF_PauseMenu" title="LGF_PauseMenu">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ENT510&repo=LGF_PauseMenu&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+</div>
+
 

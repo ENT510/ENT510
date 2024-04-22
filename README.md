@@ -8,8 +8,20 @@
     <br/>
     <br/>
 </p>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<hr>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<br>
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+</p>
+<hr>
+<h2 align="center">Stats</h2>
 <br>
 <p align=center>
   <div align=center>

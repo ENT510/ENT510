@@ -1,6 +1,5 @@
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+FiveM+resourc+developer%E2%80%9CTrue+progress+is+only+achieved+when+the+benefits+of+a+new+technology+become+available+to+all.%E2%80%9D;Always+striving+for+progress" alt="Typing SVG" /></a>
-+developer;7%2B+years+of+Lua+programming;Always+trying+to+learn+new+things" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+FiveM+resource+developer;7%2B+years+of+Lua+programming;Always+trying+to+learn+new+things" alt="Typing SVG" /></a>
   </p>
   
   <p align="center">

@@ -1,3 +1,6 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FENT510&label=Visitors&countColor=%23552AC9)
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+FiveM+resource+developer;%E2%80%9CTrue+progress+is+only+achieved+when+the+benefits+of+a+new+technology+become+available+to+all.%E2%80%9D;Always+striving+for+progress" alt="Typing SVG" /></a>
 </p>

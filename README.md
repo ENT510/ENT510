@@ -1,6 +1,15 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FENT510&label=Visitors&countColor=%23552AC9)
 
 
+<p align="center">
+  <b>🚀 Custom, Ready-to-Use & Open-Source Scripts – All in One Place! ⚡</b>
+  <br>
+  <br>
+  <a href="https://discord.gg/wd5PszPA2p">
+    <img src="https://img.shields.io/discord/1334241690852265995?label=Join%20Us%20on%20Discord&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
 
 
 
